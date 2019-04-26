@@ -1,1 +1,4 @@
-Welcome to DevOps trainning
+Welcome to DevOps trainning 
+
+It's a Automation Process
+First day - About shell script
